@@ -8,7 +8,7 @@ Inicialmente, a divisão -física- da página foi realizada e em seguida a estru
 
 Ao decorrer do projeto foram utilizadas diferentes classes nas tags <div>, <a>, <p> e nas imagens, podendo assim estilizar cada situação quanto necessário.
 
-Foram criados três aquivos CSS pois cada um tem sua finalidade prórpia: 
+Foram criados três aquivos CSS pois cada um tem sua finalidade própria: 
 - foi criado um arquivo para resetar algumas características padrão (reset.css) que não seriam necessárias e poderiam causar conflitos no momento da estilização. 
 - foi criado um arquivo para adicionar as variáveis (variables.css) inerentes as cores do projeto inicial. Este arquivo foi criado separadamente pois se caso haja a necessidade de trocar alguma cor ou a paleta de cores da página, o processo pode ser realizado facilmente direto neste arquivo.
 - foi criado o arquivo de estilos (style.css), que é onde estão estilizadas as tags do html , tentando-se manter a ordem em que as mesmas aparecem no HTML (de cima para baixo, da esquerda para a direita).
