@@ -33,4 +33,12 @@ Segue print de como a página é vista em uma tela pequena:
 
 ![Alt text](scrshot-laptop.png)
 
+Segue print de efeito após colocar o mouse sobre a imagem da moeda NFT:
+
+![Alt text](scrshot-hover.png)
+
+Obrigada por acompanhar meu trabalho!
+Att,
+Lívia
+
 
